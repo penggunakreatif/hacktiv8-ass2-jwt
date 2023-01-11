@@ -1,0 +1,12 @@
+{
+    "data" : [
+        {
+            "code" : "001",
+            "name" : "Bogor"
+        },
+        {
+            "code" : "002",
+            "name" : "Jakarta"
+        }
+    ]
+}
