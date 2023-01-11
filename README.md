@@ -1,14 +1,14 @@
 # REST API Jwt
 Assignment 2 JWT Auth
 
-####1. Clone Git
+#### 1. Clone Git
 ```sh
 git clone https://github.com/penggunakreatif/hacktiv8-ass2-jwt.git
 ```
 
-####2. Rename file `.env.example` to `.env`
+#### 2. Rename file `.env.example` to `.env`
 
-####3. NPM
+#### 3. NPM
 ```
 npm install
 ```
